@@ -1,0 +1,16 @@
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\bin\Release\net7.0-windows\win-x64\LocalFlagCalculator.exe
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\bin\Release\net7.0-windows\win-x64\LocalFlagCalculator.deps.json
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\bin\Release\net7.0-windows\win-x64\LocalFlagCalculator.runtimeconfig.json
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\bin\Release\net7.0-windows\win-x64\LocalFlagCalculator.dll
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\bin\Release\net7.0-windows\win-x64\LocalFlagCalculator.pdb
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.FlagCalculator.resources
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.csproj.GenerateResource.cache
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.AssemblyInfoInputs.cache
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.AssemblyInfo.cs
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.csproj.CoreCompileInputs.cache
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.dll
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\refint\LocalFlagCalculator.dll
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.pdb
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\LocalFlagCalculator.genruntimeconfig.cache
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\obj\Release\net7.0-windows\win-x64\ref\LocalFlagCalculator.dll

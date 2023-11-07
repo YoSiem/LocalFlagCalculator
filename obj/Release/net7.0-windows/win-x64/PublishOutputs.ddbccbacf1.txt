@@ -1,0 +1,2 @@
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\bin\Release\net7.0-windows\LocalFlagCalculator.pdb
+C:\Users\YoSiem\Desktop\LocalFlagCalculator\bin\Release\net7.0-windows\LocalFlagCalculator.exe
