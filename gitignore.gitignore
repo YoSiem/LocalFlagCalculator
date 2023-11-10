@@ -1,0 +1,86 @@
+# Ignore all bin and obj folders
+bin/
+obj/
+
+# Ignore all files with the .user or .suo extensions
+*.user
+*.suo
+
+# Ignore the VS temporary files
+*.userprefs
+*.[Oo]pt
+*.ncb
+*.sdf
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+ipch/
+*.dsw
+*.dsp
+*.err
+*.pdb
+*.vsp
+*.vspscc
+
+# Ignore the build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]nyCPU/
+build/
+[Bb]uild[Ll]og.*
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore ReSharper directory and user-specific files
+_ReSharper*/
+*.resharper
+
+# Ignore all .NET and Visual Studio files and folders
+.vs/
+
+# Exclude source control files
+.svn/
+*.hgl
+*.orig
+
+# Exclude SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Exclude profile files
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Exclude NPM packages
+node_modules/
