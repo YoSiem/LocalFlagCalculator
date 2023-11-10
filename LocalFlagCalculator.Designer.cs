@@ -59,6 +59,9 @@
             tabControl1 = new TabControl();
             PAGE_LOCAL_FLAG = new TabPage();
             PAGE_STATE_TIME = new TabPage();
+            STATE_TIME_FLAG_UNKNOW3 = new CheckBox();
+            STATE_TIME_FLAG_UNKNOW2 = new CheckBox();
+            STATE_TIME_FLAG_UNKNOW1 = new CheckBox();
             STATE_TIME_FLAG_ERASE_ON_DEAD = new CheckBox();
             STATE_TIME_FLAG_ERASE_ON_LOGOUT = new CheckBox();
             STATE_TIME_FLAG_DECREASE_ON_LOGOUT = new CheckBox();
@@ -76,9 +79,6 @@
             STATE_TIME_FLAG_ONLY_FOR_WORLD_STATE = new CheckBox();
             STATE_TIME_FLAG_ERASE_ON_QUIT_BATTLE_ARENA = new CheckBox();
             STATE_TIME_FLAG_ERASE_ON_STAND_UP = new CheckBox();
-            STATE_TIME_FLAG_UNKNOW1 = new CheckBox();
-            STATE_TIME_FLAG_UNKNOW2 = new CheckBox();
-            STATE_TIME_FLAG_UNKNOW3 = new CheckBox();
             tabControl1.SuspendLayout();
             PAGE_LOCAL_FLAG.SuspendLayout();
             PAGE_STATE_TIME.SuspendLayout();
@@ -386,6 +386,7 @@
             // 
             // PAGE_STATE_TIME
             // 
+            PAGE_STATE_TIME.BackColor = Color.DarkGray;
             PAGE_STATE_TIME.Controls.Add(STATE_TIME_FLAG_UNKNOW3);
             PAGE_STATE_TIME.Controls.Add(STATE_TIME_FLAG_UNKNOW2);
             PAGE_STATE_TIME.Controls.Add(STATE_TIME_FLAG_UNKNOW1);
@@ -412,7 +413,36 @@
             PAGE_STATE_TIME.Size = new Size(322, 296);
             PAGE_STATE_TIME.TabIndex = 1;
             PAGE_STATE_TIME.Text = "State Time";
-            PAGE_STATE_TIME.UseVisualStyleBackColor = true;
+            // 
+            // STATE_TIME_FLAG_UNKNOW3
+            // 
+            STATE_TIME_FLAG_UNKNOW3.AutoSize = true;
+            STATE_TIME_FLAG_UNKNOW3.Location = new Point(147, 213);
+            STATE_TIME_FLAG_UNKNOW3.Name = "STATE_TIME_FLAG_UNKNOW3";
+            STATE_TIME_FLAG_UNKNOW3.Size = new Size(79, 19);
+            STATE_TIME_FLAG_UNKNOW3.TabIndex = 52;
+            STATE_TIME_FLAG_UNKNOW3.Text = "Unknow 3";
+            STATE_TIME_FLAG_UNKNOW3.UseVisualStyleBackColor = true;
+            // 
+            // STATE_TIME_FLAG_UNKNOW2
+            // 
+            STATE_TIME_FLAG_UNKNOW2.AutoSize = true;
+            STATE_TIME_FLAG_UNKNOW2.Location = new Point(147, 188);
+            STATE_TIME_FLAG_UNKNOW2.Name = "STATE_TIME_FLAG_UNKNOW2";
+            STATE_TIME_FLAG_UNKNOW2.Size = new Size(76, 19);
+            STATE_TIME_FLAG_UNKNOW2.TabIndex = 51;
+            STATE_TIME_FLAG_UNKNOW2.Text = "Unknow2";
+            STATE_TIME_FLAG_UNKNOW2.UseVisualStyleBackColor = true;
+            // 
+            // STATE_TIME_FLAG_UNKNOW1
+            // 
+            STATE_TIME_FLAG_UNKNOW1.AutoSize = true;
+            STATE_TIME_FLAG_UNKNOW1.Location = new Point(147, 163);
+            STATE_TIME_FLAG_UNKNOW1.Name = "STATE_TIME_FLAG_UNKNOW1";
+            STATE_TIME_FLAG_UNKNOW1.Size = new Size(76, 19);
+            STATE_TIME_FLAG_UNKNOW1.TabIndex = 50;
+            STATE_TIME_FLAG_UNKNOW1.Text = "Unknow1";
+            STATE_TIME_FLAG_UNKNOW1.UseVisualStyleBackColor = true;
             // 
             // STATE_TIME_FLAG_ERASE_ON_DEAD
             // 
@@ -584,36 +614,6 @@
             STATE_TIME_FLAG_ERASE_ON_STAND_UP.TabIndex = 40;
             STATE_TIME_FLAG_ERASE_ON_STAND_UP.Text = "Erase On Stand Up";
             STATE_TIME_FLAG_ERASE_ON_STAND_UP.UseVisualStyleBackColor = true;
-            // 
-            // STATE_TIME_FLAG_UNKNOW1
-            // 
-            STATE_TIME_FLAG_UNKNOW1.AutoSize = true;
-            STATE_TIME_FLAG_UNKNOW1.Location = new Point(147, 163);
-            STATE_TIME_FLAG_UNKNOW1.Name = "STATE_TIME_FLAG_UNKNOW1";
-            STATE_TIME_FLAG_UNKNOW1.Size = new Size(76, 19);
-            STATE_TIME_FLAG_UNKNOW1.TabIndex = 50;
-            STATE_TIME_FLAG_UNKNOW1.Text = "Unknow1";
-            STATE_TIME_FLAG_UNKNOW1.UseVisualStyleBackColor = true;
-            // 
-            // STATE_TIME_FLAG_UNKNOW2
-            // 
-            STATE_TIME_FLAG_UNKNOW2.AutoSize = true;
-            STATE_TIME_FLAG_UNKNOW2.Location = new Point(147, 188);
-            STATE_TIME_FLAG_UNKNOW2.Name = "STATE_TIME_FLAG_UNKNOW2";
-            STATE_TIME_FLAG_UNKNOW2.Size = new Size(76, 19);
-            STATE_TIME_FLAG_UNKNOW2.TabIndex = 51;
-            STATE_TIME_FLAG_UNKNOW2.Text = "Unknow2";
-            STATE_TIME_FLAG_UNKNOW2.UseVisualStyleBackColor = true;
-            // 
-            // STATE_TIME_FLAG_UNKNOW3
-            // 
-            STATE_TIME_FLAG_UNKNOW3.AutoSize = true;
-            STATE_TIME_FLAG_UNKNOW3.Location = new Point(147, 213);
-            STATE_TIME_FLAG_UNKNOW3.Name = "STATE_TIME_FLAG_UNKNOW3";
-            STATE_TIME_FLAG_UNKNOW3.Size = new Size(79, 19);
-            STATE_TIME_FLAG_UNKNOW3.TabIndex = 52;
-            STATE_TIME_FLAG_UNKNOW3.Text = "Unknow 3";
-            STATE_TIME_FLAG_UNKNOW3.UseVisualStyleBackColor = true;
             // 
             // FlagCalculator
             // 
