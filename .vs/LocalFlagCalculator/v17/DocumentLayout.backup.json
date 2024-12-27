@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|c:\\users\\patry\\documents\\github\\localflagcalculator\\localflagcalculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|solutionrelative:localflagcalculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|c:\\users\\patry\\documents\\github\\localflagcalculator\\localflagcalculator\\enumutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|solutionrelative:localflagcalculator\\enumutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|c:\\users\\patry\\documents\\github\\localflagcalculator\\localflagcalculator\\localflagcalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|solutionrelative:localflagcalculator\\localflagcalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|c:\\users\\patry\\documents\\github\\localflagcalculator\\localflagcalculator\\localflagcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|solutionrelative:localflagcalculator\\localflagcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|c:\\users\\patry\\documents\\github\\localflagcalculator\\localflagcalculator\\flags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|solutionrelative:localflagcalculator\\flags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|c:\\users\\patry\\documents\\github\\localflagcalculator\\localflagcalculator\\flagoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204449A1-5C8E-4706-B69E-DBCFBD03DACB}|LocalFlagCalculator.csproj|solutionrelative:localflagcalculator\\flagoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalFlagCalculator",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator.csproj",
+              "RelativeDocumentMoniker": "LocalFlagCalculator.csproj",
+              "ToolTip": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator.csproj",
+              "RelativeToolTip": "LocalFlagCalculator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T23:58:08.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalFlagCalculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\LocalFlagCalculator.Designer.cs",
+              "RelativeDocumentMoniker": "LocalFlagCalculator\\LocalFlagCalculator.Designer.cs",
+              "ToolTip": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\LocalFlagCalculator.Designer.cs",
+              "RelativeToolTip": "LocalFlagCalculator\\LocalFlagCalculator.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:43:14.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flags.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\Flags.cs",
+              "RelativeDocumentMoniker": "LocalFlagCalculator\\Flags.cs",
+              "ToolTip": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\Flags.cs",
+              "RelativeToolTip": "LocalFlagCalculator\\Flags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:43:10.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlagOperations.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\FlagOperations.cs",
+              "RelativeDocumentMoniker": "LocalFlagCalculator\\FlagOperations.cs",
+              "ToolTip": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\FlagOperations.cs",
+              "RelativeToolTip": "LocalFlagCalculator\\FlagOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:43:04.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumUtils.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\EnumUtils.cs",
+              "RelativeDocumentMoniker": "LocalFlagCalculator\\EnumUtils.cs",
+              "ToolTip": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\EnumUtils.cs",
+              "RelativeToolTip": "LocalFlagCalculator\\EnumUtils.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAMwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:42:58.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalFlagCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\LocalFlagCalculator.cs",
+              "RelativeDocumentMoniker": "LocalFlagCalculator\\LocalFlagCalculator.cs",
+              "ToolTip": "C:\\Users\\patry\\Documents\\GitHub\\LocalFlagCalculator\\LocalFlagCalculator\\LocalFlagCalculator.cs",
+              "RelativeToolTip": "LocalFlagCalculator\\LocalFlagCalculator.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAnwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:41:32.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net5.0-windows7.0\LocalFlagCalculator.csproj.AssemblyReference.cache
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net5.0-windows7.0\LocalFlagCalculator.LocalFlagCalculator.FlagCalculator.resources
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net5.0-windows7.0\LocalFlagCalculator.csproj.GenerateResource.cache
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net5.0-windows7.0\LocalFlagCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net5.0-windows7.0\LocalFlagCalculator.AssemblyInfoInputs.cache
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net5.0-windows7.0\LocalFlagCalculator.AssemblyInfo.cs
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net5.0-windows7.0\LocalFlagCalculator.csproj.CoreCompileInputs.cache

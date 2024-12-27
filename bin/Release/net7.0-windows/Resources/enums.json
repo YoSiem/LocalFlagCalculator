@@ -1,0 +1,12 @@
+{
+  "DynamicEnums": [
+    {
+      "EnumName": "CustomFlags",
+      "Values": [
+        { "Name": "FLAG_CUSTOM_ONE", "Value": "1 << 0", "DisplayName": "Custom One" },  
+        { "Name": "FLAG_CUSTOM_TWO", "Value": "1 << 1", "DisplayName": "Custom Two" },  
+        { "Name": "FLAG_CUSTOM_THREE", "Value": "1 << 2", "DisplayName": "Custom Three" }  
+      ]
+    }
+  ]
+}

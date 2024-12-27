@@ -1,0 +1,17 @@
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\bin\Release\net7.0-windows7.0\LocalFlagCalculator.exe
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\bin\Release\net7.0-windows7.0\LocalFlagCalculator.deps.json
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\bin\Release\net7.0-windows7.0\LocalFlagCalculator.runtimeconfig.json
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\bin\Release\net7.0-windows7.0\LocalFlagCalculator.dll
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\bin\Release\net7.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.csproj.AssemblyReference.cache
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.LocalFlagCalculator.FlagCalculator.resources
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.csproj.GenerateResource.cache
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.AssemblyInfoInputs.cache
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.AssemblyInfo.cs
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.csproj.CoreCompileInputs.cache
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFla.7C2947CF.Up2Date
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.dll
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\refint\LocalFlagCalculator.dll
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\LocalFlagCalculator.genruntimeconfig.cache
+C:\Users\patry\Documents\GitHub\LocalFlagCalculator\obj\Release\net7.0-windows7.0\ref\LocalFlagCalculator.dll

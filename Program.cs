@@ -1,4 +1,4 @@
-namespace LocalFlagCalculator
+namespace LocalFlagCalculator.LocalFlagCalculator
 {
     internal static class Program
     {

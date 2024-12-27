@@ -1,0 +1,24 @@
+{
+  "DynamicEnums": [
+    {
+      "EnumName": "ExampleFlags",
+      "Values": [
+        {
+          "Name": "FLAG_EXAMPLE_ONE",
+          "Value": "1 << 0",
+          "DisplayName": "Example One"
+        },
+        {
+          "Name": "FLAG_EXAMPLE_TWO",
+          "Value": "1 << 1",
+          "DisplayName": "Example Two"
+        },
+        {
+          "Name": "FLAG_EXAMPLE_THREE",
+          "Value": "1 << 2",
+          "DisplayName": "Example Three"
+        }
+      ]
+    }
+  ]
+}
